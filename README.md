@@ -1,5 +1,5 @@
-# C++ Python Practice
-HackerRank Practice Questions
+
+# HackerRank Practice Questions
 Read this again and again when you feel like quitting coding ->
 ## Contains the boring stuff required to get jobs?
 No. It might be boring initially, but once you get your hands dirty on code, it becomes extremely interesting.
